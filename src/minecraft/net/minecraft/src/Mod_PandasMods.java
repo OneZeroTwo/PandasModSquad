@@ -10,9 +10,8 @@ public class Mod_PandasMods extends BaseMod{
 
 	@Override
 	public void load() {
-		// TODO Auto-generated method stub
-		
-		// This is a test comment to see the github saving feature.
+		// TODO Auto-generated method stub		
+	
 	}
 	
 }
