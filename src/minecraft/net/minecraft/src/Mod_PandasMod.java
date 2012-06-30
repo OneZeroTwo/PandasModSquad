@@ -1,8 +1,8 @@
 package net.minecraft.src;
 
-public class Mod_PandasMod extends BaseMod {
+public class Mod_PandasMod extends BaseMod{
 	
-	public static final Block tutorialBlock = new BlockTutorialBlock(179, Material.wood);
+	public static final Block tutorialBlock = new BlockTutorialBlock(279, Material.wood);
 
 	@Override
 	public String getVersion() {
